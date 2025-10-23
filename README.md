@@ -1,2 +1,2 @@
 # Monthly-Dashboard-Power-BI-Project
-Dashboard Showind SALEDATA
+Dashboard Showing SALEDATA
